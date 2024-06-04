@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-b499r9kp+#wd%zr@o6q!!k$o7^i%5%jur5lz7yxul%7ryol08z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://flix.azurewebsites.net']
+ALLOWED_HOSTS = ['flix.azurewebsites.net']
 
 
 # Application definition
